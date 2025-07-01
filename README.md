@@ -56,10 +56,10 @@ Amazon-Product-Review-EDA/
 <img src="./Q7.png" width="700">
 
 ### 🔹 Q8: Distribution of Product Ratings  
-<img src="./Q8.png" width="700">
+<img src="./Q9.png" width="700">
 
 ### 🔹 Q9: Total Potential Revenue by Category  
-<img src="./Q9.png" width="700">
+<img src="./Q8.png" width="700">
 
 ### 🔹 Q10: Products per Price Range Bucket  
 <img src="./Q10.png" width="700">

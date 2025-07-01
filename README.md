@@ -53,7 +53,7 @@ Amazon-Product-Review-EDA/
 <img src="./Q6.png" width="700">
 
 ### 🔹 Q7: Products with ≥ 50% Discount  
-<img src=".s/Q7.png" width="700">
+<img src="./Q7.png" width="700">
 
 ### 🔹 Q8: Distribution of Product Ratings  
 <img src="./Q8.png" width="700">

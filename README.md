@@ -56,7 +56,7 @@ Amazon-Product-Review-EDA/
 <img src="./Q7.png" width="700">
 
 ### 🔹 Q8: Distribution of Product Ratings  
-<img src="./Q9.png" width="700">
+<img src="./Q11.png" width="700">
 
 ### 🔹 Q9: Total Potential Revenue by Category  
 <img src="./Q8.png" width="700">
@@ -65,7 +65,7 @@ Amazon-Product-Review-EDA/
 <img src="./Q10.png" width="700">
 
 ### 🔹 Q11: Correlation Between Discount % and Rating  
-<img src="./Q11.png" width="700">
+<img src="./Q9.png" width="700">
 
 ### 🔹 Q12: Number of Products with < 1,000 Reviews  
 <img src="./Q12.png" width="700">

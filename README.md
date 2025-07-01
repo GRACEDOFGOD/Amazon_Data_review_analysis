@@ -47,7 +47,7 @@ Amazon-Product-Review-EDA/
 <img src="./Q4.png" width="700">
 
 ### 🔹 Q5: Average Actual vs Discounted Price by Category  
-<img src="outputs/charts/Q5.png" width="700">
+<img src="./Q5.png" width="700">
 
 ### 🔹 Q6: Top 10 Most Reviewed Products  
 <img src="./Q6.png" width="700">
